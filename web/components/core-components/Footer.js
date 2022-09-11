@@ -15,14 +15,14 @@ const Footer = () => {
       >
         <MuiNextLink
           sx={{ textDecoration: "none", color: 'black' }}
-          href="https://twitter.com/straightupjac"
+          href="https://twitter.com/NickHarmon155"
           target="_blank"
           rel="noopener noreferrer"
         >
           <Twitter fontSize="large" />
         </MuiNextLink>
         <Typography >
-          © {new Date().getFullYear()}
+          Nick Harmon © {new Date().getFullYear()}
         </Typography>
       </Stack>
   </Box>);

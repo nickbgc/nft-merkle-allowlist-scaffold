@@ -25,7 +25,7 @@ export default function MyApp(props) {
   return (
     <CacheProvider value={emotionCache}>
       <Head>
-        <title>NFT with Merkle Whitelist Web3 Scaffold</title>
+        <title>NFT mint site with Merkle Whitelist Web3 Scaffold</title>
         <meta name="viewport" content="initial-scale=1, width=device-width" />
       </Head>
       <ThemeProvider theme={theme}>
